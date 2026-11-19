@@ -1,0 +1,11 @@
+/data/
+
+.venv*/
+.env
+*.csv
+**/target/
+**/dbt_packages/
+**/logs/
+__pycache__/
+
+smoothie_dbt/

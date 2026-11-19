@@ -1,0 +1,9 @@
+.venv*/
+.env
+.idea/
+data/
+logs/
+**/target/
+**/dbt_packages/
+__pycache__/
+smoothie_dbt/
