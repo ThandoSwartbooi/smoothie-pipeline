@@ -39,3 +39,6 @@ dbt run
 ```
 
 Raw CSV files are excluded from this public repository.
+
+
+![Total sales by product](sales-by-product.png)
